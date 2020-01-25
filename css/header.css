@@ -1,0 +1,32 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  align-items: center;
+  
+
+}
+
+.header .header_title{
+    font-size: 30px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+   
+
+}
+
+.header_icon{
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.header .header_header-column{
+    display: flex;
+    align-items: center;
+}
+
+.header .header_back-btn{
+font-size: 14px;
+margin-right: 20px;
+}
